@@ -1,7 +1,7 @@
 export const profileData = {
-  name: "Your Name",
-  title: "Full Stack Developer | Upwork Expert",
-  bio: "Experienced developer specializing in web applications, AI integration, and modern JavaScript frameworks. 5+ years helping clients build amazing digital products.",
+  name: "Zani",
+  title: "Full Stack Developer | React & Python Expert",
+  bio: "Experienced developer specializing in web applications, AI integration, and modern JavaScript frameworks. Passionate about building scalable solutions and helping clients achieve their digital goals.",
   
   avatar: "/assets/avatar.jpg", // Add your photo to public/assets/
   
@@ -38,35 +38,35 @@ export const profileData = {
   projects: [
     {
       id: 1,
-      title: "E-commerce Platform",
-      description: "Built a full-featured online store with payment integration",
-      technologies: ["React", "Node.js", "Stripe", "MongoDB"],
+      title: "Upwork Profile Assistant Bot",
+      description: "Interactive portfolio and client assistant bot built with React and Netlify serverless functions",
+      technologies: ["React", "Node.js", "Netlify", "JavaScript"],
       image: "/assets/project1.jpg",
-      link: "https://github.com/yourusername/project1"
+      link: "https://github.com/engrzani/react_app"
     },
     {
       id: 2,
       title: "AI Chatbot Integration",
-      description: "Developed an intelligent customer service chatbot",
-      technologies: ["Python", "OpenAI", "Flask", "React"],
+      description: "Developed intelligent chatbot solutions with natural language processing",
+      technologies: ["Python", "OpenAI", "React", "API Integration"],
       image: "/assets/project2.jpg",
-      link: "https://github.com/yourusername/project2"
+      link: "https://github.com/engrzani"
     },
     {
       id: 3,
-      title: "Task Management App",
-      description: "Real-time collaborative task management system",
-      technologies: ["React", "Firebase", "Material-UI"],
+      title: "Web Application Development",
+      description: "Building modern, responsive web applications with latest technologies",
+      technologies: ["React", "JavaScript", "CSS", "Git"],
       image: "/assets/project3.jpg",
-      link: "https://github.com/yourusername/project3"
+      link: "https://github.com/engrzani"
     }
   ],
   
   achievements: [
-    "100% Job Success Score on Upwork",
-    "Top Rated Plus Badge",
-    "50+ Successfully Completed Projects",
-    "Rising Talent Badge"
+    "Upwork Top Rated Freelancer",
+    "Successfully Completed Multiple Projects",
+    "Expert in React & Modern Web Development",
+    "Fast Response Time & Quality Delivery"
   ],
   
   contact: {
